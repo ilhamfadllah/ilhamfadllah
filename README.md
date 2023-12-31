@@ -1,16 +1,25 @@
-### Hi there 👋
+# 🤠 Howdy partner! Ilham here, the Code Wrangler 🐴
 
-<!--
-**ilhamfadllah/ilhamfadllah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion for coding and a cowboy hat bigger than my bug backlog. Here's the roundup:
 
-Here are some ideas to get you started:
+## 🐎 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Rustlin' up code at Singapore start-up
+- 🌵 Rustic coder by day, country two-stepper by night
+- 🤠 My favorite debugging tool? Lassoing bugs like a wild mustang
+
+## 🌵 Tech Lasso
+
+- Wrangling Languages: JS & TS
+- Cowboy Code Editors: VS Code all the way!
+- Wanted Dead or Alive: AWS Cloud
+
+## 🤠 Trail Stats
+
+![Commits](https://img.shields.io/github/last-commit/your-username/your-repo?style=for-the-badge)
+![Bandit Ratings](https://img.shields.io/badge/Bandit%20Ratings-5%2F5-yellow?style=for-the-badge)
+
+## 🤠 Sage Wisdom
+
+```bash
+$ npm install cowboy-hat --global
