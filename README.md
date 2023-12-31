@@ -16,8 +16,7 @@ Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion f
 
 ## 🤠 Trail Stats
 
-![Commits](https://img.shields.io/github/last-commit/your-username/your-repo?style=for-the-badge)
-![Bandit Ratings](https://img.shields.io/badge/Bandit%20Ratings-5%2F5-yellow?style=for-the-badge)
+![Commits](https://img.shields.io/github/last-commit/ilhamfadllah/rss-news-to-json-node-sdk?style=for-the-badge)
 
 ## 🤠 Sage Wisdom
 
