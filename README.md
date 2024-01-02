@@ -1,12 +1,11 @@
-# 🤠 Howdy partner! Ilham here, the Code Wrangler 🐴
+# 🤠 Howdy! Ilham here, the Code Wrangler 🐴
 
-Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion for coding and a cowboy hat bigger than my bug backlog. Here's the roundup:
+Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion for coding. Here's the roundup:
 
 ## 🐎 About Me
 
 - 🔭 Rustlin' up code at Singapore start-up
 - 🌵 Rustic coder by day, country two-stepper by night
-- 🤠 My favorite debugging tool? Lassoing bugs like a wild mustang
 
 ## 🌵 Tech Lasso
 
@@ -18,7 +17,3 @@ Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion f
 
 ![Commits](https://img.shields.io/github/last-commit/ilhamfadllah/rss-news-to-json-node-sdk?style=for-the-badge)
 
-## 🤠 Sage Wisdom
-
-```bash
-$ npm install cowboy-hat --global
