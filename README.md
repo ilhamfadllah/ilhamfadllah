@@ -4,13 +4,13 @@ Saddle up and welcome to my GitHub corral! I'm a full-stack dev with a passion f
 
 ## About Me
 
-- 🔭 Rustlin' up code at Singapore start-up
-- 🌵 Rustic coder by day, country two-stepper by night
+- Rustlin' up code at Singapore start-up
+- Rustic coder by day, country two-stepper by night
 
 ## Tech Lasso
 
 - Wrangling Languages: JS & TS
-- Cowboy Code Editors: VS Code all the way!
+- Cowboy Code Editors: VS Code & WebStorm
 - Wanted Dead or Alive: AWS Cloud
 
 ## Trail Stats
